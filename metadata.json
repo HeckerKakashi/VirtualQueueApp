@@ -1,0 +1,6 @@
+{
+  "name": "QueueNow: Smart Virtual Queue",
+  "description": "A premium navigation-based virtual queue system with real-time map discovery, position tracking, and intelligent travel alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
